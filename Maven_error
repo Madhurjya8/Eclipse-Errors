@@ -1,0 +1,128 @@
+---------------------------------------------------
+constituent[0]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/
+constituent[1]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-core-3.8.4.jar
+constituent[2]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-model-3.8.4.jar
+constituent[3]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-settings-3.8.4.jar
+constituent[4]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-settings-builder-3.8.4.jar
+constituent[5]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-builder-support-3.8.4.jar
+constituent[6]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-repository-metadata-3.8.4.jar
+constituent[7]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-artifact-3.8.4.jar
+constituent[8]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-plugin-api-3.8.4.jar
+constituent[9]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-model-builder-3.8.4.jar
+constituent[10]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-resolver-provider-3.8.4.jar
+constituent[11]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-resolver-api-1.6.3.jar
+constituent[12]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-resolver-spi-1.6.3.jar
+constituent[13]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-resolver-util-1.6.3.jar
+constituent[14]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-shared-utils-3.3.4.jar
+constituent[15]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/commons-io-2.6.jar
+constituent[16]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/org.eclipse.sisu.inject-0.3.5.jar
+constituent[17]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/guice-4.2.2-no_aop.jar
+constituent[18]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/plexus-utils-3.3.0.jar
+constituent[19]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/plexus-interpolation-1.26.jar
+constituent[20]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/plexus-component-annotations-2.1.0.jar
+constituent[21]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/commons-lang3-3.8.1.jar
+constituent[22]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-embedder-3.8.4.jar
+constituent[23]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/javax.annotation-api-1.2.jar
+constituent[24]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/plexus-sec-dispatcher-2.0.jar
+constituent[25]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/plexus-cipher-2.0.jar
+constituent[26]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/commons-cli-1.4.jar
+constituent[27]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-compat-3.8.4.jar
+constituent[28]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/wagon-provider-api-3.4.3.jar
+constituent[29]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/org.eclipse.sisu.plexus-0.3.5.jar
+constituent[30]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/aether-connector-okhttp-0.17.8.jar
+constituent[31]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/okhttp-3.14.1.jar
+constituent[32]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/okio-1.17.3.jar
+constituent[33]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-resolver-impl-1.6.3.jar
+constituent[34]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-resolver-connector-basic-1.6.3.jar
+constituent[35]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/maven-resolver-transport-wagon-1.6.3.jar
+constituent[36]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/wagon-file-3.4.3.jar
+constituent[37]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/jansi-2.4.0.jar
+constituent[38]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.18.1.20211008-0657/
+constituent[39]: file:/C:/Users/Dell/.p2/pool/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.18.1.20211008-0657/jars/slf4j-simple-1.7.30.jar
+constituent[40]: file:/C:/Users/Dell/eclipse/jee-2022-06/eclipse/configuration/org.eclipse.osgi/1319/0/.cp/
+constituent[41]: file:/C:/Users/Dell/eclipse/jee-2022-06/eclipse/configuration/org.eclipse.osgi/879/0/.cp/
+constituent[42]: file:/C:/Users/Dell/eclipse/jee-2022-06/eclipse/configuration/org.eclipse.osgi/30/0/.cp/
+---------------------------------------------------
+Exception in thread "main" java.lang.NoClassDefFoundError: com/google/common/util/concurrent/internal/InternalFutureFailureAccess
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/java.net.URLClassLoader.defineClass(URLClassLoader.java:524)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClassFromSelf(ClassRealm.java:425)
+	at org.codehaus.plexus.classworlds.strategy.SelfFirstStrategy.loadClass(SelfFirstStrategy.java:42)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.unsynchronizedLoadClass(ClassRealm.java:271)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:247)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:239)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/java.net.URLClassLoader.defineClass(URLClassLoader.java:524)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClassFromSelf(ClassRealm.java:425)
+	at org.codehaus.plexus.classworlds.strategy.SelfFirstStrategy.loadClass(SelfFirstStrategy.java:42)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.unsynchronizedLoadClass(ClassRealm.java:271)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:247)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:239)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/java.net.URLClassLoader.defineClass(URLClassLoader.java:524)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClassFromSelf(ClassRealm.java:425)
+	at org.codehaus.plexus.classworlds.strategy.SelfFirstStrategy.loadClass(SelfFirstStrategy.java:42)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.unsynchronizedLoadClass(ClassRealm.java:271)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:247)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:239)
+	at com.google.common.cache.LocalCache$LoadingValueReference.<init>(LocalCache.java:3512)
+	at com.google.common.cache.LocalCache$LoadingValueReference.<init>(LocalCache.java:3516)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2169)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2080)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4012)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4035)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5013)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5020)
+	at com.google.inject.internal.Annotations$AnnotationChecker.hasAnnotations(Annotations.java:274)
+	at com.google.inject.internal.Annotations.isBindingAnnotation(Annotations.java:340)
+	at com.google.inject.Key.ensureIsBindingAnnotation(Key.java:349)
+	at com.google.inject.Key.strategyFor(Key.java:336)
+	at com.google.inject.Key.get(Key.java:219)
+	at org.eclipse.sisu.wire.ParameterKeys.<clinit>(ParameterKeys.java:28)
+	at org.eclipse.sisu.wire.DependencyAnalyzer.<init>(DependencyAnalyzer.java:93)
+	at org.eclipse.sisu.wire.ElementAnalyzer.<init>(ElementAnalyzer.java:104)
+	at org.eclipse.sisu.wire.WireModule.configure(WireModule.java:74)
+	at com.google.inject.spi.Elements$RecordingBinder.install(Elements.java:344)
+	at com.google.inject.spi.Elements.getElements(Elements.java:103)
+	at com.google.inject.internal.InjectorShell$Builder.build(InjectorShell.java:137)
+	at com.google.inject.internal.InternalInjectorCreator.build(InternalInjectorCreator.java:103)
+	at com.google.inject.Guice.createInjector(Guice.java:87)
+	at com.google.inject.Guice.createInjector(Guice.java:69)
+	at com.google.inject.Guice.createInjector(Guice.java:59)
+	at org.codehaus.plexus.DefaultPlexusContainer.addPlexusInjector(DefaultPlexusContainer.java:481)
+	at org.codehaus.plexus.DefaultPlexusContainer.<init>(DefaultPlexusContainer.java:206)
+	at org.apache.maven.cli.MavenCli.container(MavenCli.java:651)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:286)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:196)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+Caused by: java.lang.ClassNotFoundException: com.google.common.util.concurrent.internal.InternalFutureFailureAccess
+	at org.codehaus.plexus.classworlds.strategy.SelfFirstStrategy.loadClass(SelfFirstStrategy.java:50)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.unsynchronizedLoadClass(ClassRealm.java:271)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:247)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:239)
+	... 76 more
